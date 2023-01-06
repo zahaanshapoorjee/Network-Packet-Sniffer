@@ -12,7 +12,9 @@ The use of this code is only endorsed by the developers in those circumstances d
 **REQUIREMENTS**
 
 Python 3.x
+
 Privileged/Administrative Rights
+
 Linux Operating System
 
 **RUN**
